@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173359338627",
+    "firebase_url": "https://asesorias-366e3.firebaseio.com",
+    "project_id": "asesorias-366e3",
+    "storage_bucket": "asesorias-366e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173359338627:android:20938afa74160b85",
+        "android_client_info": {
+          "package_name": "com.example.alumnoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173359338627-k8m013o3gq8its28mjh6ushcs5uckcop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFpl1mSwjU6MnDQFwnvVgNkwDXBN2vZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173359338627-k8m013o3gq8its28mjh6ushcs5uckcop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
